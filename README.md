@@ -7,7 +7,7 @@ Welcome to my compilation of activities and projects! Below, you'll fine my summ
 
 # ***Table of Contents***
 
-1.   [Activities](##Project-and-Activities)
+1.   [Activities](#Project-and-Activities)
 
 ## Project and Activities
 
