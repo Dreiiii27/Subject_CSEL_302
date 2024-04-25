@@ -1,3 +1,6 @@
+git clone https://github.com/Dreiiii27/ActivityHub.git
+cd ActivityHub
+
 # **ACTIVITIES AND PROJECT COMPILATION**
 
 ---
