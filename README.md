@@ -1,6 +1,3 @@
-[git clone https://github.com/Dreiiii27/ActivityHub.git
-cd ActivityHub
-](https://dreiiii27.github.io/Subject_CSEL_302/)
 # **ACTIVITIES AND PROJECT COMPILATION**
 
 ---
