@@ -9,7 +9,7 @@ Welcome to my compilation of activities and projects! Below, you'll fine my summ
 
 
 
-1.   [Activities](Project-and-Activites)
+1.   [Activities](Project and Activites)
 
 ## Project and Activities
 
