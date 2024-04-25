@@ -14,7 +14,7 @@ Welcome to our Projects and Activities space! Here, we offer a diverse range of 
 
 
 
-1.   <a href = "2A-COLADILLA-EXER4.ipynb/README.ipynb">2A-COLADILLA-EXER4</a>
-2.   <a href = "2A-COLADILLA-EXER5.ipynb/README.ipynb">2A-COLADILLA-EXER5</a>
-3.   <a href = "2A-COLADILLA-EXER6.ipynb/README.ipynb">2A-COLADILLA-EXER6</a>
-4.   <a href = "2A-COLADILLA-EXER7.ipynb/README.ipynb">2A-COLADILLA-EXER7</a>
+1.   <a href = "2A-COLADILLA-EXER4.ipynb">2A-COLADILLA-EXER4</a>
+2.   <a href = "2A-COLADILLA-EXER5.ipynb">2A-COLADILLA-EXER5</a>
+3.   <a href = "2A-COLADILLA-EXER6.ipynb">2A-COLADILLA-EXER6</a>
+4.   <a href = "2A-COLADILLA-EXER7.ipynb">2A-COLADILLA-EXER7</a>
